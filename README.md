@@ -14,8 +14,8 @@ Developing the UML first was helpful in visualizing how the code would be struct
 
 I would improve by including more details related to the architecture of each operating system, and its dedicated hardware.
 
-**How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-**
+**How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
+
 I directly addressed my User's needs and detailed my solutions within the design document, and production code. This pertains to Active Listening. The User tells the Business Owner what their needs are, and the Business Entity provides a solution and payment arrangement. Without this relationship, the business could not exist.
 
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
